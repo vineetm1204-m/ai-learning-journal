@@ -1,0 +1,56 @@
+name: 🧠 Daily AI Learning Journal
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every day at 6:00 AM UTC
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write           # needed to git push the new entry
+
+jobs:
+  generate-entry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # full history so git log works
+
+      # ── 2. Python ──────────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      # ── 3. Dependencies ────────────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Generate entry ──────────────────────────────────────────────────
+      - name: Generate today's journal entry
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_entry.py
+
+      # ── 5. Commit & push ───────────────────────────────────────────────────
+      - name: Commit and push new entry
+        run: |
+          git config user.name  "AI Learning Journal Bot"
+          git config user.email "journal-bot@users.noreply.github.com"
+
+          git add journal/ README.md
+
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            TODAY=$(date -u +"%Y-%m-%d")
+            DAY=$(cat journal/progress.json | python3 -c "import sys,json; print(json.load(sys.stdin)['day'])")
+            git commit -m "📚 Day ${DAY} — $(date -u +'%B %d, %Y')"
+            git push
+          fi
