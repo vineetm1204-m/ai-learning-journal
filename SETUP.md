@@ -116,7 +116,7 @@ Essentially free. 🎉
 
 **The workflow failed — what do I check?**
 - Go to Actions tab → click the failed run → expand steps for error details
-- Most common cause: `GEMINI_API_KEY` secret not set correctly
+- Most common causes: `GEMINI_API_KEY` secret not set correctly, or the key has no Gemini quota/billing enabled
 
 **Can I change the topic curriculum?**
 Edit the `TOPICS` list in `scripts/generate_entry.py` — add, remove, or reorder freely.

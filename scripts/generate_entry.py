@@ -9,6 +9,7 @@ import random
 from datetime import datetime, timezone
 from pathlib import Path
 from google import genai
+from google.genai import errors as genai_errors
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
@@ -21,14 +22,35 @@ PROGRESS_FILE   = REPO_ROOT / "journal" / "progress.json"
 README_FILE     = REPO_ROOT / "README.md"
 
 
+class JournalGenerationError(Exception):
+    pass
+
+
 def get_client() -> genai.Client:
     api_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not api_key:
-        raise RuntimeError(
+        raise JournalGenerationError(
             "GEMINI_API_KEY is missing or empty. Set the GitHub Actions secret "
             "or export the environment variable before running this script."
         )
     return genai.Client(api_key=api_key)
+
+
+def generate_content(client: genai.Client, *, prompt: str, temperature: float):
+    try:
+        return client.models.generate_content(
+            model=MODEL,
+            contents=prompt,
+            config={"temperature": temperature},
+        )
+    except genai_errors.ClientError as exc:
+        message = str(exc)
+        if "RESOURCE_EXHAUSTED" in message or "429" in message:
+            raise JournalGenerationError(
+                "Gemini quota was exceeded for this API key. Enable billing or use a key "
+                "with available Gemini quota, then run the script again."
+            ) from exc
+        raise
 
 # ── Curriculum ────────────────────────────────────────────────────────────────
 
@@ -129,11 +151,7 @@ Return ONLY a valid JSON object (no markdown fences) with these exact keys:
 }}"""
 
     client = get_client()
-    resp = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config={"temperature": 0.7},
-    )
+    resp = generate_content(client, prompt=prompt, temperature=0.7)
     raw = resp.text.strip()
     # strip accidental fences
     if raw.startswith("```"):
@@ -150,11 +168,7 @@ Requirements:
 Return ONLY the raw Python code, no markdown fences."""
 
     client = get_client()
-    resp = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config={"temperature": 0.4},
-    )
+    resp = generate_content(client, prompt=prompt, temperature=0.4)
     code = resp.text.strip()
     if code.startswith("```"):
         code = code.split("\n", 1)[1].rsplit("```", 1)[0]
@@ -394,4 +408,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except JournalGenerationError as exc:
+        print(f"Error: {exc}")
+        raise SystemExit(1)
