@@ -12,7 +12,6 @@ from google import genai
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-CLIENT = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 MODEL  = "gemini-2.0-flash"
 
 REPO_ROOT    = Path(__file__).resolve().parent.parent
@@ -20,6 +19,16 @@ ENTRIES_DIR  = REPO_ROOT / "journal" / "entries"
 EXPERIMENTS_DIR = REPO_ROOT / "journal" / "experiments"
 PROGRESS_FILE   = REPO_ROOT / "journal" / "progress.json"
 README_FILE     = REPO_ROOT / "README.md"
+
+
+def get_client() -> genai.Client:
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError(
+            "GEMINI_API_KEY is missing or empty. Set the GitHub Actions secret "
+            "or export the environment variable before running this script."
+        )
+    return genai.Client(api_key=api_key)
 
 # ── Curriculum ────────────────────────────────────────────────────────────────
 
@@ -119,7 +128,8 @@ Return ONLY a valid JSON object (no markdown fences) with these exact keys:
   ]
 }}"""
 
-    resp = CLIENT.models.generate_content(
+    client = get_client()
+    resp = client.models.generate_content(
         model=MODEL,
         contents=prompt,
         config={"temperature": 0.7},
@@ -139,7 +149,8 @@ Requirements:
 
 Return ONLY the raw Python code, no markdown fences."""
 
-    resp = CLIENT.models.generate_content(
+    client = get_client()
+    resp = client.models.generate_content(
         model=MODEL,
         contents=prompt,
         config={"temperature": 0.4},
@@ -248,7 +259,7 @@ def update_readme(progress: dict, today_topic: str, today_date: str, day: int):
 
 > **Automated daily deep learning notes** — concepts, experiments & quizzes, generated with Gemini and pushed by GitHub Actions every day.
 
-[![Update Journal](https://github.com/YOUR_USERNAME/ai-learning-journal/actions/workflows/daily_journal.yml/badge.svg)](https://github.com/YOUR_USERNAME/ai-learning-journal/actions/workflows/daily_journal.yml)
+[![Update Journal](https://github.com/vineetm1204-m/ai-learning-journal/actions/workflows/daily_journal.yml/badge.svg)](https://github.com/vineetm1204-m/ai-learning-journal/actions/workflows/daily_journal.yml)
 
 
 ## 📊 Progress
@@ -295,7 +306,7 @@ Each entry contains:
 ## 🚀 Run Experiments Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-learning-journal.git
+git clone https://github.com/vineetm1204-m/ai-learning-journal.git
 cd ai-learning-journal
 pip install torch numpy google-genai
 python journal/experiments/day_001_*.py
@@ -318,7 +329,7 @@ generate_entry.py
 ```
 
 
-*Built with ❤️ using Gemini + GitHub Actions*
+*Built with ❤️ by Vineet Mittal*
 """
     README_FILE.write_text(readme)
 
