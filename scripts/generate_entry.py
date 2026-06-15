@@ -15,7 +15,7 @@ from openai import APIError as OpenAIError
 
 # Default model: Gemini 2.0 Flash via OpenRouter (free tier)
 # You can change this to any model available on OpenRouter
-MODEL = "google/gemini-flash-1.5:free"
+MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 
 REPO_ROOT    = Path(__file__).resolve().parent.parent
 ENTRIES_DIR  = REPO_ROOT / "journal" / "entries"
