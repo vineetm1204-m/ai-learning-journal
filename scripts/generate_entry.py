@@ -162,7 +162,7 @@ Return ONLY a valid JSON object (no markdown fences) with these exact keys:
 
     client = get_client()
     resp = generate_content(client, prompt=prompt, temperature=0.7)
-    raw = resp.text.strip()
+    raw = resp.strip()
     # strip accidental fences
     if raw.startswith("```"):
         raw = raw.split("\n", 1)[1].rsplit("```", 1)[0]
@@ -179,7 +179,7 @@ Return ONLY the raw Python code, no markdown fences."""
 
     client = get_client()
     resp = generate_content(client, prompt=prompt, temperature=0.4)
-    code = resp.text.strip()
+    code = resp.strip()
     if code.startswith("```"):
         code = code.split("\n", 1)[1].rsplit("```", 1)[0]
     return code
