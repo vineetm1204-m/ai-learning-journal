@@ -34,7 +34,7 @@ jobs:
       # ── 4. Generate entry ──────────────────────────────────────────────────
       - name: Generate today's journal entry
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python scripts/generate_entry.py
 
       # ── 5. Commit & push ───────────────────────────────────────────────────
