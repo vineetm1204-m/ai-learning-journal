@@ -8,23 +8,24 @@
 ## 📊 Progress
 
 ```
-Day   1 / ∞   Topics covered: 1/41
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2%
+Day   2 / ∞   Topics covered: 2/41
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4%
 🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 1 — Perceptrons and the biological neuron analogy**
+**Day 2 — Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU**
 🗓️ June 15, 2026
-📖 [Read entry →](journal/entries/day_001_perceptrons-and-the-biological-neuron-an.md)
+📖 [Read entry →](journal/entries/day_002_activation-functions:-sigmoid,-tanh,-rel.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 002 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_002_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 | 001 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_001_perceptrons-and-the-biological-neuron-analogy.md) |
 
 [Browse all entries →](journal/entries/)
