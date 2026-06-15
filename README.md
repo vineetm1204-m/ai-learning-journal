@@ -8,15 +8,44 @@
 ## 📊 Progress
 
 ```
-Day 0 / ∞   Topics covered: 0/0
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
-🔥 Current streak: 0 days
+Day   1 / ∞   Topics covered: 1/41
+[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-No entries generated yet. Run the script to generate the first entry.
+**Day 1 — Perceptrons and the biological neuron analogy**
+🗓️ June 15, 2026
+📖 [Read entry →](journal/entries/day_001_perceptrons-and-the-biological-neuron-an.md)
+
+
+## 📚 Recent Entries
+
+| Day | Topic |
+|-----|-------|
+| 001 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_001_perceptrons-and-the-biological-neuron-analogy.md) |
+
+[Browse all entries →](journal/entries/)
+
+
+## 🗂️ Curriculum Overview
+
+Topics span **Foundations → ANN → CNN → RNN → Transformers → Advanced**.
+Each entry contains:
+
+| Section | Details |
+|---------|---------|
+| 🧠 Concept | 200-word intuitive explanation |
+| ✅ Key Points | 5 crisp bullets |
+| 🏗️ Diagram | ASCII diagram or formula |
+| 💡 Analogy | Real-world comparison |
+| ⚠️ Mistakes | 3 common beginner traps |
+| 🧪 Experiment | Runnable Python (PyTorch/NumPy) |
+| 📚 Resources | 2 free links |
+| 🧩 Quiz | 2 MCQs with hidden answers |
+
 
 ## 🚀 Run Experiments Locally
 

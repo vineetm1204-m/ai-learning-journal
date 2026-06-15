@@ -1,6 +1,8 @@
 {
-  "day": 0,
-  "completed_topics": [],
-  "streak": 0,
-  "last_date": ""
+  "day": 1,
+  "completed_topics": [
+    "Perceptrons and the biological neuron analogy"
+  ],
+  "streak": 1,
+  "last_date": "2026-06-15"
 }
