@@ -8,23 +8,24 @@
 ## 📊 Progress
 
 ```
-Day   2 / ∞   Topics covered: 2/41
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4%
+Day   3 / ∞   Topics covered: 3/41
+[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7%
 🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 2 — Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU**
-🗓️ June 15, 2026
-📖 [Read entry →](journal/entries/day_002_activation-functions:-sigmoid,-tanh,-rel.md)
+**Day 3 — Loss functions: MSE, Cross-Entropy, Huber loss**
+🗓️ June 17, 2026
+📖 [Read entry →](journal/entries/day_003_loss-functions:-mse,-cross-entropy,-hube.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 003 | [Loss Functions Mse Cross Entropy Huber Loss](journal/entries/day_003_loss-functions-mse-cross-entropy-huber-loss.md) |
 | 002 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_002_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 | 001 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_001_perceptrons-and-the-biological-neuron-analogy.md) |
 
