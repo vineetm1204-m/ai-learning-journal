@@ -1,10 +1,11 @@
 {
-  "day": 3,
+  "day": 4,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
-    "Loss functions: MSE, Cross-Entropy, Huber loss"
+    "Loss functions: MSE, Cross-Entropy, Huber loss",
+    "Gradient Descent: batch, mini-batch, stochastic"
   ],
-  "streak": 1,
-  "last_date": "2026-06-17"
+  "streak": 2,
+  "last_date": "2026-06-18"
 }
