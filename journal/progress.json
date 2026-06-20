@@ -1,12 +1,13 @@
 {
-  "day": 5,
+  "day": 6,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
     "Loss functions: MSE, Cross-Entropy, Huber loss",
     "Gradient Descent: batch, mini-batch, stochastic",
-    "Backpropagation intuition and the chain rule"
+    "Backpropagation intuition and the chain rule",
+    "Weight initialization strategies: Xavier, He, random"
   ],
-  "streak": 3,
-  "last_date": "2026-06-19"
+  "streak": 4,
+  "last_date": "2026-06-20"
 }
