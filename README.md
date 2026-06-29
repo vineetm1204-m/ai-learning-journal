@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day   9 / ∞   Topics covered: 9/41
-[██████░░░░░░░░░░░░░░░░░░░░░░░░] 21%
+Day  10 / ∞   Topics covered: 10/41
+[███████░░░░░░░░░░░░░░░░░░░░░░░] 24%
 🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 9 — Feedforward Neural Networks (ANN) architecture**
-🗓️ June 27, 2026
-📖 [Read entry →](journal/entries/day_009_feedforward-neural-networks-(ann)-archit.md)
+**Day 10 — Universal approximation theorem**
+🗓️ June 29, 2026
+📖 [Read entry →](journal/entries/day_010_universal-approximation-theorem.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 010 | [Universal Approximation Theorem](journal/entries/day_010_universal-approximation-theorem.md) |
 | 009 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_009_feedforward-neural-networks-ann-architecture.md) |
 | 008 | [Learning Rate Schedules Step Decay Cosine Anneal](journal/entries/day_008_learning-rate-schedules-step-decay-cosine-anneal.md) |
 | 007 | [Regularization L1 L2 Dropout Batchnorm](journal/entries/day_007_regularization-l1-l2-dropout-batchnorm.md) |
 | 006 | [Weight Initialization Strategies Xavier He Rand](journal/entries/day_006_weight-initialization-strategies-xavier-he-rand.md) |
-| 005 | [Backpropagation Intuition And The Chain Rule](journal/entries/day_005_backpropagation-intuition-and-the-chain-rule.md) |
 
 [Browse all entries →](journal/entries/)
 
