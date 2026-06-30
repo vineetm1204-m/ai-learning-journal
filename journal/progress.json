@@ -1,5 +1,5 @@
 {
-  "day": 10,
+  "day": 11,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -10,8 +10,9 @@
     "Regularization: L1, L2, Dropout, BatchNorm",
     "Learning rate schedules: step decay, cosine annealing, warm restarts",
     "Feedforward Neural Networks (ANN) architecture",
-    "Universal approximation theorem"
+    "Universal approximation theorem",
+    "Vanishing and exploding gradients in deep ANNs"
   ],
-  "streak": 1,
-  "last_date": "2026-06-29"
+  "streak": 2,
+  "last_date": "2026-06-30"
 }

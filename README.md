@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  10 / ∞   Topics covered: 10/41
-[███████░░░░░░░░░░░░░░░░░░░░░░░] 24%
-🔥 Current streak: 1 days
+Day  11 / ∞   Topics covered: 11/41
+[███████░░░░░░░░░░░░░░░░░░░░░░░] 26%
+🔥 Current streak: 2 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 10 — Universal approximation theorem**
-🗓️ June 29, 2026
-📖 [Read entry →](journal/entries/day_010_universal-approximation-theorem.md)
+**Day 11 — Vanishing and exploding gradients in deep ANNs**
+🗓️ June 30, 2026
+📖 [Read entry →](journal/entries/day_011_vanishing-and-exploding-gradients-in-dee.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 011 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_011_vanishing-and-exploding-gradients-in-deep-anns.md) |
 | 010 | [Universal Approximation Theorem](journal/entries/day_010_universal-approximation-theorem.md) |
 | 009 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_009_feedforward-neural-networks-ann-architecture.md) |
 | 008 | [Learning Rate Schedules Step Decay Cosine Anneal](journal/entries/day_008_learning-rate-schedules-step-decay-cosine-anneal.md) |
 | 007 | [Regularization L1 L2 Dropout Batchnorm](journal/entries/day_007_regularization-l1-l2-dropout-batchnorm.md) |
-| 006 | [Weight Initialization Strategies Xavier He Rand](journal/entries/day_006_weight-initialization-strategies-xavier-he-rand.md) |
 
 [Browse all entries →](journal/entries/)
 
