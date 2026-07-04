@@ -1,5 +1,5 @@
 {
-  "day": 13,
+  "day": 14,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -13,8 +13,9 @@
     "Universal approximation theorem",
     "Vanishing and exploding gradients in deep ANNs",
     "Optimizers: SGD, Momentum, RMSProp, Adam, AdamW",
-    "Hyperparameter tuning strategies"
+    "Hyperparameter tuning strategies",
+    "Convolutional layers: filters, stride, padding"
   ],
-  "streak": 1,
-  "last_date": "2026-07-03"
+  "streak": 2,
+  "last_date": "2026-07-04"
 }
