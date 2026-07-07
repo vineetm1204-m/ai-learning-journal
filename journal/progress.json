@@ -1,5 +1,5 @@
 {
-  "day": 15,
+  "day": 16,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -15,8 +15,9 @@
     "Optimizers: SGD, Momentum, RMSProp, Adam, AdamW",
     "Hyperparameter tuning strategies",
     "Convolutional layers: filters, stride, padding",
-    "Pooling layers: max pooling, average pooling"
+    "Pooling layers: max pooling, average pooling",
+    "CNN receptive field and spatial hierarchy"
   ],
-  "streak": 3,
-  "last_date": "2026-07-05"
+  "streak": 1,
+  "last_date": "2026-07-07"
 }
