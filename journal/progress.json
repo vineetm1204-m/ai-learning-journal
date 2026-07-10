@@ -1,5 +1,5 @@
 {
-  "day": 18,
+  "day": 19,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -18,8 +18,9 @@
     "Pooling layers: max pooling, average pooling",
     "CNN receptive field and spatial hierarchy",
     "Classic architectures: LeNet, AlexNet, VGG",
-    "ResNets and skip connections"
+    "ResNets and skip connections",
+    "Transfer learning and fine-tuning with CNNs"
   ],
-  "streak": 3,
-  "last_date": "2026-07-09"
+  "streak": 4,
+  "last_date": "2026-07-10"
 }

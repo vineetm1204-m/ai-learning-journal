@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  18 / ∞   Topics covered: 18/41
-[████████████░░░░░░░░░░░░░░░░░░] 43%
-🔥 Current streak: 3 days
+Day  19 / ∞   Topics covered: 19/41
+[█████████████░░░░░░░░░░░░░░░░░] 46%
+🔥 Current streak: 4 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 18 — ResNets and skip connections**
-🗓️ July 09, 2026
-📖 [Read entry →](journal/entries/day_018_resnets-and-skip-connections.md)
+**Day 19 — Transfer learning and fine-tuning with CNNs**
+🗓️ July 10, 2026
+📖 [Read entry →](journal/entries/day_019_transfer-learning-and-fine-tuning-with-c.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 019 | [Transfer Learning And Fine Tuning With Cnns](journal/entries/day_019_transfer-learning-and-fine-tuning-with-cnns.md) |
 | 018 | [Resnets And Skip Connections](journal/entries/day_018_resnets-and-skip-connections.md) |
 | 017 | [Classic Architectures Lenet Alexnet Vgg](journal/entries/day_017_classic-architectures-lenet-alexnet-vgg.md) |
 | 016 | [Cnn Receptive Field And Spatial Hierarchy](journal/entries/day_016_cnn-receptive-field-and-spatial-hierarchy.md) |
 | 015 | [Pooling Layers Max Pooling Average Pooling](journal/entries/day_015_pooling-layers-max-pooling-average-pooling.md) |
-| 014 | [Convolutional Layers Filters Stride Padding](journal/entries/day_014_convolutional-layers-filters-stride-padding.md) |
 
 [Browse all entries →](journal/entries/)
 
