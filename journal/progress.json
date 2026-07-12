@@ -1,5 +1,5 @@
 {
-  "day": 20,
+  "day": 21,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -20,8 +20,9 @@
     "Classic architectures: LeNet, AlexNet, VGG",
     "ResNets and skip connections",
     "Transfer learning and fine-tuning with CNNs",
-    "Data augmentation for image tasks"
+    "Data augmentation for image tasks",
+    "Object detection: YOLO, R-CNN family overview"
   ],
-  "streak": 5,
-  "last_date": "2026-07-11"
+  "streak": 6,
+  "last_date": "2026-07-12"
 }
