@@ -1,5 +1,5 @@
 {
-  "day": 21,
+  "day": 22,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -21,8 +21,9 @@
     "ResNets and skip connections",
     "Transfer learning and fine-tuning with CNNs",
     "Data augmentation for image tasks",
-    "Object detection: YOLO, R-CNN family overview"
+    "Object detection: YOLO, R-CNN family overview",
+    "Recurrent Neural Networks (RNN) unrolled through time"
   ],
-  "streak": 6,
-  "last_date": "2026-07-12"
+  "streak": 1,
+  "last_date": "2026-07-14"
 }

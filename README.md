@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  21 / ∞   Topics covered: 21/41
-[███████████████░░░░░░░░░░░░░░░] 51%
-🔥 Current streak: 6 days
+Day  22 / ∞   Topics covered: 22/41
+[███████████████░░░░░░░░░░░░░░░] 53%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 21 — Object detection: YOLO, R-CNN family overview**
-🗓️ July 12, 2026
-📖 [Read entry →](journal/entries/day_021_object-detection:-yolo,-r-cnn-family-ove.md)
+**Day 22 — Recurrent Neural Networks (RNN) unrolled through time**
+🗓️ July 14, 2026
+📖 [Read entry →](journal/entries/day_022_recurrent-neural-networks-(rnn)-unrolled.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 022 | [Recurrent Neural Networks Rnn Unrolled Through T](journal/entries/day_022_recurrent-neural-networks-rnn-unrolled-through-t.md) |
 | 021 | [Object Detection Yolo R Cnn Family Overview](journal/entries/day_021_object-detection-yolo-r-cnn-family-overview.md) |
 | 020 | [Data Augmentation For Image Tasks](journal/entries/day_020_data-augmentation-for-image-tasks.md) |
 | 019 | [Transfer Learning And Fine Tuning With Cnns](journal/entries/day_019_transfer-learning-and-fine-tuning-with-cnns.md) |
 | 018 | [Resnets And Skip Connections](journal/entries/day_018_resnets-and-skip-connections.md) |
-| 017 | [Classic Architectures Lenet Alexnet Vgg](journal/entries/day_017_classic-architectures-lenet-alexnet-vgg.md) |
 
 [Browse all entries →](journal/entries/)
 
