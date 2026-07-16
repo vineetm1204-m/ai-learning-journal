@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  23 / ∞   Topics covered: 23/41
-[████████████████░░░░░░░░░░░░░░] 56%
-🔥 Current streak: 2 days
+Day  24 / ∞   Topics covered: 24/41
+[█████████████████░░░░░░░░░░░░░] 58%
+🔥 Current streak: 3 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 23 — BPTT: Backpropagation Through Time**
-🗓️ July 15, 2026
-📖 [Read entry →](journal/entries/day_023_bptt:-backpropagation-through-time.md)
+**Day 24 — Long Short-Term Memory (LSTM) gates explained**
+🗓️ July 16, 2026
+📖 [Read entry →](journal/entries/day_024_long-short-term-memory-(lstm)-gates-expl.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 024 | [Long Short Term Memory Lstm Gates Explained](journal/entries/day_024_long-short-term-memory-lstm-gates-explained.md) |
 | 023 | [Bptt Backpropagation Through Time](journal/entries/day_023_bptt-backpropagation-through-time.md) |
 | 022 | [Recurrent Neural Networks Rnn Unrolled Through T](journal/entries/day_022_recurrent-neural-networks-rnn-unrolled-through-t.md) |
 | 021 | [Object Detection Yolo R Cnn Family Overview](journal/entries/day_021_object-detection-yolo-r-cnn-family-overview.md) |
 | 020 | [Data Augmentation For Image Tasks](journal/entries/day_020_data-augmentation-for-image-tasks.md) |
-| 019 | [Transfer Learning And Fine Tuning With Cnns](journal/entries/day_019_transfer-learning-and-fine-tuning-with-cnns.md) |
 
 [Browse all entries →](journal/entries/)
 
