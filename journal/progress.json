@@ -1,5 +1,5 @@
 {
-  "day": 24,
+  "day": 25,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -24,8 +24,9 @@
     "Object detection: YOLO, R-CNN family overview",
     "Recurrent Neural Networks (RNN) unrolled through time",
     "BPTT: Backpropagation Through Time",
-    "Long Short-Term Memory (LSTM) gates explained"
+    "Long Short-Term Memory (LSTM) gates explained",
+    "Gated Recurrent Units (GRU)"
   ],
-  "streak": 3,
-  "last_date": "2026-07-16"
+  "streak": 4,
+  "last_date": "2026-07-17"
 }
