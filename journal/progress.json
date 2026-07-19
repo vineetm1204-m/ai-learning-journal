@@ -1,5 +1,5 @@
 {
-  "day": 26,
+  "day": 27,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -26,8 +26,9 @@
     "BPTT: Backpropagation Through Time",
     "Long Short-Term Memory (LSTM) gates explained",
     "Gated Recurrent Units (GRU)",
-    "Sequence-to-sequence models and encoder-decoder"
+    "Sequence-to-sequence models and encoder-decoder",
+    "Attention mechanisms: self-attention and cross-attention"
   ],
-  "streak": 5,
-  "last_date": "2026-07-18"
+  "streak": 6,
+  "last_date": "2026-07-19"
 }

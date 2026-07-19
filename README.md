@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  26 / ∞   Topics covered: 26/41
-[██████████████████░░░░░░░░░░░░] 63%
-🔥 Current streak: 5 days
+Day  27 / ∞   Topics covered: 27/41
+[███████████████████░░░░░░░░░░░] 65%
+🔥 Current streak: 6 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 26 — Sequence-to-sequence models and encoder-decoder**
-🗓️ July 18, 2026
-📖 [Read entry →](journal/entries/day_026_sequence-to-sequence-models-and-encoder-.md)
+**Day 27 — Attention mechanisms: self-attention and cross-attention**
+🗓️ July 19, 2026
+📖 [Read entry →](journal/entries/day_027_attention-mechanisms:-self-attention-and.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 027 | [Attention Mechanisms Self Attention And Cross Att](journal/entries/day_027_attention-mechanisms-self-attention-and-cross-att.md) |
 | 026 | [Sequence To Sequence Models And Encoder Decoder](journal/entries/day_026_sequence-to-sequence-models-and-encoder-decoder.md) |
 | 025 | [Gated Recurrent Units Gru](journal/entries/day_025_gated-recurrent-units-gru.md) |
 | 024 | [Long Short Term Memory Lstm Gates Explained](journal/entries/day_024_long-short-term-memory-lstm-gates-explained.md) |
 | 023 | [Bptt Backpropagation Through Time](journal/entries/day_023_bptt-backpropagation-through-time.md) |
-| 022 | [Recurrent Neural Networks Rnn Unrolled Through T](journal/entries/day_022_recurrent-neural-networks-rnn-unrolled-through-t.md) |
 
 [Browse all entries →](journal/entries/)
 
