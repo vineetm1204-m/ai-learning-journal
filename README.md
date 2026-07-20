@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  27 / ∞   Topics covered: 27/41
-[███████████████████░░░░░░░░░░░] 65%
-🔥 Current streak: 6 days
+Day  28 / ∞   Topics covered: 28/41
+[████████████████████░░░░░░░░░░] 68%
+🔥 Current streak: 7 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 27 — Attention mechanisms: self-attention and cross-attention**
-🗓️ July 19, 2026
-📖 [Read entry →](journal/entries/day_027_attention-mechanisms:-self-attention-and.md)
+**Day 28 — The Transformer architecture (Attention is All You Need)**
+🗓️ July 20, 2026
+📖 [Read entry →](journal/entries/day_028_the-transformer-architecture-(attention-.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 028 | [The Transformer Architecture Attention Is All You](journal/entries/day_028_the-transformer-architecture-attention-is-all-you.md) |
 | 027 | [Attention Mechanisms Self Attention And Cross Att](journal/entries/day_027_attention-mechanisms-self-attention-and-cross-att.md) |
 | 026 | [Sequence To Sequence Models And Encoder Decoder](journal/entries/day_026_sequence-to-sequence-models-and-encoder-decoder.md) |
 | 025 | [Gated Recurrent Units Gru](journal/entries/day_025_gated-recurrent-units-gru.md) |
 | 024 | [Long Short Term Memory Lstm Gates Explained](journal/entries/day_024_long-short-term-memory-lstm-gates-explained.md) |
-| 023 | [Bptt Backpropagation Through Time](journal/entries/day_023_bptt-backpropagation-through-time.md) |
 
 [Browse all entries →](journal/entries/)
 
