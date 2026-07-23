@@ -1,5 +1,5 @@
 {
-  "day": 28,
+  "day": 29,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -28,8 +28,9 @@
     "Gated Recurrent Units (GRU)",
     "Sequence-to-sequence models and encoder-decoder",
     "Attention mechanisms: self-attention and cross-attention",
-    "The Transformer architecture (Attention is All You Need)"
+    "The Transformer architecture (Attention is All You Need)",
+    "Positional encoding in Transformers"
   ],
-  "streak": 7,
-  "last_date": "2026-07-20"
+  "streak": 1,
+  "last_date": "2026-07-23"
 }
