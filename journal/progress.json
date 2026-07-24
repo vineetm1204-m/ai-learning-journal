@@ -1,5 +1,5 @@
 {
-  "day": 29,
+  "day": 30,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -29,8 +29,9 @@
     "Sequence-to-sequence models and encoder-decoder",
     "Attention mechanisms: self-attention and cross-attention",
     "The Transformer architecture (Attention is All You Need)",
-    "Positional encoding in Transformers"
+    "Positional encoding in Transformers",
+    "BERT and masked language modeling"
   ],
-  "streak": 1,
-  "last_date": "2026-07-23"
+  "streak": 2,
+  "last_date": "2026-07-24"
 }
