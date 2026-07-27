@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  31 / ∞   Topics covered: 31/41
-[██████████████████████░░░░░░░░] 75%
-🔥 Current streak: 1 days
+Day  32 / ∞   Topics covered: 32/41
+[███████████████████████░░░░░░░] 78%
+🔥 Current streak: 2 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 31 — GPT and autoregressive language modeling**
-🗓️ July 26, 2026
-📖 [Read entry →](journal/entries/day_031_gpt-and-autoregressive-language-modeling.md)
+**Day 32 — Generative Adversarial Networks (GANs): generator vs discriminator**
+🗓️ July 27, 2026
+📖 [Read entry →](journal/entries/day_032_generative-adversarial-networks-(gans):-.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 032 | [Generative Adversarial Networks Gans Generator](journal/entries/day_032_generative-adversarial-networks-gans-generator.md) |
 | 031 | [Gpt And Autoregressive Language Modeling](journal/entries/day_031_gpt-and-autoregressive-language-modeling.md) |
 | 030 | [Bert And Masked Language Modeling](journal/entries/day_030_bert-and-masked-language-modeling.md) |
 | 029 | [Positional Encoding In Transformers](journal/entries/day_029_positional-encoding-in-transformers.md) |
 | 028 | [The Transformer Architecture Attention Is All You](journal/entries/day_028_the-transformer-architecture-attention-is-all-you.md) |
-| 027 | [Attention Mechanisms Self Attention And Cross Att](journal/entries/day_027_attention-mechanisms-self-attention-and-cross-att.md) |
 
 [Browse all entries →](journal/entries/)
 
