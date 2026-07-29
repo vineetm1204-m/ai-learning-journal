@@ -1,5 +1,5 @@
 {
-  "day": 33,
+  "day": 34,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -33,8 +33,9 @@
     "BERT and masked language modeling",
     "GPT and autoregressive language modeling",
     "Generative Adversarial Networks (GANs): generator vs discriminator",
-    "Variational Autoencoders (VAEs)"
+    "Variational Autoencoders (VAEs)",
+    "Diffusion models intuition"
   ],
-  "streak": 3,
-  "last_date": "2026-07-28"
+  "streak": 4,
+  "last_date": "2026-07-29"
 }
