@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  34 / ∞   Topics covered: 34/41
-[████████████████████████░░░░░░] 82%
-🔥 Current streak: 4 days
+Day  35 / ∞   Topics covered: 35/41
+[█████████████████████████░░░░░] 85%
+🔥 Current streak: 5 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 34 — Diffusion models intuition**
-🗓️ July 29, 2026
-📖 [Read entry →](journal/entries/day_034_diffusion-models-intuition.md)
+**Day 35 — Graph Neural Networks (GNNs) basics**
+🗓️ July 30, 2026
+📖 [Read entry →](journal/entries/day_035_graph-neural-networks-(gnns)-basics.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 035 | [Graph Neural Networks Gnns Basics](journal/entries/day_035_graph-neural-networks-gnns-basics.md) |
 | 034 | [Diffusion Models Intuition](journal/entries/day_034_diffusion-models-intuition.md) |
 | 033 | [Variational Autoencoders Vaes](journal/entries/day_033_variational-autoencoders-vaes.md) |
 | 032 | [Generative Adversarial Networks Gans Generator](journal/entries/day_032_generative-adversarial-networks-gans-generator.md) |
 | 031 | [Gpt And Autoregressive Language Modeling](journal/entries/day_031_gpt-and-autoregressive-language-modeling.md) |
-| 030 | [Bert And Masked Language Modeling](journal/entries/day_030_bert-and-masked-language-modeling.md) |
 
 [Browse all entries →](journal/entries/)
 
