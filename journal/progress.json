@@ -1,5 +1,5 @@
 {
-  "day": 36,
+  "day": 37,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -36,8 +36,9 @@
     "Variational Autoencoders (VAEs)",
     "Diffusion models intuition",
     "Graph Neural Networks (GNNs) basics",
-    "Reinforcement Learning foundations: MDP, rewards, policy"
+    "Reinforcement Learning foundations: MDP, rewards, policy",
+    "Deep Q-Networks (DQN)"
   ],
-  "streak": 6,
-  "last_date": "2026-07-31"
+  "streak": 7,
+  "last_date": "2026-08-01"
 }

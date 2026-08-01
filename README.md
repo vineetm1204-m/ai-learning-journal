@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  36 / ∞   Topics covered: 36/41
-[██████████████████████████░░░░] 87%
-🔥 Current streak: 6 days
+Day  37 / ∞   Topics covered: 37/41
+[███████████████████████████░░░] 90%
+🔥 Current streak: 7 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 36 — Reinforcement Learning foundations: MDP, rewards, policy**
-🗓️ July 31, 2026
-📖 [Read entry →](journal/entries/day_036_reinforcement-learning-foundations:-mdp,.md)
+**Day 37 — Deep Q-Networks (DQN)**
+🗓️ August 01, 2026
+📖 [Read entry →](journal/entries/day_037_deep-q-networks-(dqn).md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 037 | [Deep Q Networks Dqn](journal/entries/day_037_deep-q-networks-dqn.md) |
 | 036 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_036_reinforcement-learning-foundations-mdp-rewards.md) |
 | 035 | [Graph Neural Networks Gnns Basics](journal/entries/day_035_graph-neural-networks-gnns-basics.md) |
 | 034 | [Diffusion Models Intuition](journal/entries/day_034_diffusion-models-intuition.md) |
 | 033 | [Variational Autoencoders Vaes](journal/entries/day_033_variational-autoencoders-vaes.md) |
-| 032 | [Generative Adversarial Networks Gans Generator](journal/entries/day_032_generative-adversarial-networks-gans-generator.md) |
 
 [Browse all entries →](journal/entries/)
 
