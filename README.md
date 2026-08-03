@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  38 / ∞   Topics covered: 38/41
-[███████████████████████████░░░] 92%
-🔥 Current streak: 8 days
+Day  39 / ∞   Topics covered: 39/41
+[████████████████████████████░░] 95%
+🔥 Current streak: 9 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 38 — Multi-task and meta-learning overview**
-🗓️ August 02, 2026
-📖 [Read entry →](journal/entries/day_038_multi-task-and-meta-learning-overview.md)
+**Day 39 — Neural Architecture Search (NAS)**
+🗓️ August 03, 2026
+📖 [Read entry →](journal/entries/day_039_neural-architecture-search-(nas).md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 039 | [Neural Architecture Search Nas](journal/entries/day_039_neural-architecture-search-nas.md) |
 | 038 | [Multi Task And Meta Learning Overview](journal/entries/day_038_multi-task-and-meta-learning-overview.md) |
 | 037 | [Deep Q Networks Dqn](journal/entries/day_037_deep-q-networks-dqn.md) |
 | 036 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_036_reinforcement-learning-foundations-mdp-rewards.md) |
 | 035 | [Graph Neural Networks Gnns Basics](journal/entries/day_035_graph-neural-networks-gnns-basics.md) |
-| 034 | [Diffusion Models Intuition](journal/entries/day_034_diffusion-models-intuition.md) |
 
 [Browse all entries →](journal/entries/)
 
