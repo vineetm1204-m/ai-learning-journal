@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  39 / ∞   Topics covered: 39/41
-[████████████████████████████░░] 95%
-🔥 Current streak: 9 days
+Day  40 / ∞   Topics covered: 40/41
+[█████████████████████████████░] 97%
+🔥 Current streak: 10 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 39 — Neural Architecture Search (NAS)**
-🗓️ August 03, 2026
-📖 [Read entry →](journal/entries/day_039_neural-architecture-search-(nas).md)
+**Day 40 — Quantization and model pruning for deployment**
+🗓️ August 04, 2026
+📖 [Read entry →](journal/entries/day_040_quantization-and-model-pruning-for-deplo.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 040 | [Quantization And Model Pruning For Deployment](journal/entries/day_040_quantization-and-model-pruning-for-deployment.md) |
 | 039 | [Neural Architecture Search Nas](journal/entries/day_039_neural-architecture-search-nas.md) |
 | 038 | [Multi Task And Meta Learning Overview](journal/entries/day_038_multi-task-and-meta-learning-overview.md) |
 | 037 | [Deep Q Networks Dqn](journal/entries/day_037_deep-q-networks-dqn.md) |
 | 036 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_036_reinforcement-learning-foundations-mdp-rewards.md) |
-| 035 | [Graph Neural Networks Gnns Basics](journal/entries/day_035_graph-neural-networks-gnns-basics.md) |
 
 [Browse all entries →](journal/entries/)
 
