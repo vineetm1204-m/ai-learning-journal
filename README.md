@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  40 / ∞   Topics covered: 40/41
-[█████████████████████████████░] 97%
-🔥 Current streak: 10 days
+Day  41 / ∞   Topics covered: 41/41
+[██████████████████████████████] 100%
+🔥 Current streak: 11 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 40 — Quantization and model pruning for deployment**
-🗓️ August 04, 2026
-📖 [Read entry →](journal/entries/day_040_quantization-and-model-pruning-for-deplo.md)
+**Day 41 — Federated learning and privacy-preserving ML**
+🗓️ August 05, 2026
+📖 [Read entry →](journal/entries/day_041_federated-learning-and-privacy-preservin.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 041 | [Federated Learning And Privacy Preserving Ml](journal/entries/day_041_federated-learning-and-privacy-preserving-ml.md) |
 | 040 | [Quantization And Model Pruning For Deployment](journal/entries/day_040_quantization-and-model-pruning-for-deployment.md) |
 | 039 | [Neural Architecture Search Nas](journal/entries/day_039_neural-architecture-search-nas.md) |
 | 038 | [Multi Task And Meta Learning Overview](journal/entries/day_038_multi-task-and-meta-learning-overview.md) |
 | 037 | [Deep Q Networks Dqn](journal/entries/day_037_deep-q-networks-dqn.md) |
-| 036 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_036_reinforcement-learning-foundations-mdp-rewards.md) |
 
 [Browse all entries →](journal/entries/)
 

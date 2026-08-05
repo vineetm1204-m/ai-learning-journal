@@ -1,5 +1,5 @@
 {
-  "day": 40,
+  "day": 41,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -40,8 +40,9 @@
     "Deep Q-Networks (DQN)",
     "Multi-task and meta-learning overview",
     "Neural Architecture Search (NAS)",
-    "Quantization and model pruning for deployment"
+    "Quantization and model pruning for deployment",
+    "Federated learning and privacy-preserving ML"
   ],
-  "streak": 10,
-  "last_date": "2026-08-04"
+  "streak": 11,
+  "last_date": "2026-08-05"
 }
