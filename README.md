@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  42 / ∞   Topics covered: 1/41
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2%
-🔥 Current streak: 12 days
+Day  43 / ∞   Topics covered: 2/41
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 42 — Perceptrons and the biological neuron analogy**
-🗓️ August 06, 2026
-📖 [Read entry →](journal/entries/day_042_perceptrons-and-the-biological-neuron-an.md)
+**Day 43 — Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU**
+🗓️ August 08, 2026
+📖 [Read entry →](journal/entries/day_043_activation-functions:-sigmoid,-tanh,-rel.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 043 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_043_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 | 042 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_042_perceptrons-and-the-biological-neuron-analogy.md) |
 | 041 | [Federated Learning And Privacy Preserving Ml](journal/entries/day_041_federated-learning-and-privacy-preserving-ml.md) |
 | 040 | [Quantization And Model Pruning For Deployment](journal/entries/day_040_quantization-and-model-pruning-for-deployment.md) |
 | 039 | [Neural Architecture Search Nas](journal/entries/day_039_neural-architecture-search-nas.md) |
-| 038 | [Multi Task And Meta Learning Overview](journal/entries/day_038_multi-task-and-meta-learning-overview.md) |
 
 [Browse all entries →](journal/entries/)
 
