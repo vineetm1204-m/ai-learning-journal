@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  44 / ∞   Topics covered: 3/41
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7%
-🔥 Current streak: 2 days
+Day  45 / ∞   Topics covered: 4/41
+[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9%
+🔥 Current streak: 3 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 44 — Loss functions: MSE, Cross-Entropy, Huber loss**
-🗓️ August 09, 2026
-📖 [Read entry →](journal/entries/day_044_loss-functions:-mse,-cross-entropy,-hube.md)
+**Day 45 — Gradient Descent: batch, mini-batch, stochastic**
+🗓️ August 10, 2026
+📖 [Read entry →](journal/entries/day_045_gradient-descent:-batch,-mini-batch,-sto.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 045 | [Gradient Descent Batch Mini Batch Stochastic](journal/entries/day_045_gradient-descent-batch-mini-batch-stochastic.md) |
 | 044 | [Loss Functions Mse Cross Entropy Huber Loss](journal/entries/day_044_loss-functions-mse-cross-entropy-huber-loss.md) |
 | 043 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_043_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 | 042 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_042_perceptrons-and-the-biological-neuron-analogy.md) |
 | 041 | [Federated Learning And Privacy Preserving Ml](journal/entries/day_041_federated-learning-and-privacy-preserving-ml.md) |
-| 040 | [Quantization And Model Pruning For Deployment](journal/entries/day_040_quantization-and-model-pruning-for-deployment.md) |
 
 [Browse all entries →](journal/entries/)
 
