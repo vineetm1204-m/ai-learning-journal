@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  47 / ∞   Topics covered: 6/41
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 14%
-🔥 Current streak: 5 days
+Day  48 / ∞   Topics covered: 7/41
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 17%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 47 — Weight initialization strategies: Xavier, He, random**
-🗓️ August 12, 2026
-📖 [Read entry →](journal/entries/day_047_weight-initialization-strategies:-xavier.md)
+**Day 48 — Regularization: L1, L2, Dropout, BatchNorm**
+🗓️ August 14, 2026
+📖 [Read entry →](journal/entries/day_048_regularization:-l1,-l2,-dropout,-batchno.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 048 | [Regularization L1 L2 Dropout Batchnorm](journal/entries/day_048_regularization-l1-l2-dropout-batchnorm.md) |
 | 047 | [Weight Initialization Strategies Xavier He Rand](journal/entries/day_047_weight-initialization-strategies-xavier-he-rand.md) |
 | 046 | [Backpropagation Intuition And The Chain Rule](journal/entries/day_046_backpropagation-intuition-and-the-chain-rule.md) |
 | 045 | [Gradient Descent Batch Mini Batch Stochastic](journal/entries/day_045_gradient-descent-batch-mini-batch-stochastic.md) |
 | 044 | [Loss Functions Mse Cross Entropy Huber Loss](journal/entries/day_044_loss-functions-mse-cross-entropy-huber-loss.md) |
-| 043 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_043_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 
 [Browse all entries →](journal/entries/)
 
