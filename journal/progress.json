@@ -1,5 +1,5 @@
 {
-  "day": 49,
+  "day": 50,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -8,8 +8,9 @@
     "Backpropagation intuition and the chain rule",
     "Weight initialization strategies: Xavier, He, random",
     "Regularization: L1, L2, Dropout, BatchNorm",
-    "Learning rate schedules: step decay, cosine annealing, warm restarts"
+    "Learning rate schedules: step decay, cosine annealing, warm restarts",
+    "Feedforward Neural Networks (ANN) architecture"
   ],
-  "streak": 2,
-  "last_date": "2026-08-15"
+  "streak": 3,
+  "last_date": "2026-08-16"
 }

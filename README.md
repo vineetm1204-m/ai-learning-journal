@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  49 / ∞   Topics covered: 8/41
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 19%
-🔥 Current streak: 2 days
+Day  50 / ∞   Topics covered: 9/41
+[██████░░░░░░░░░░░░░░░░░░░░░░░░] 21%
+🔥 Current streak: 3 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 49 — Learning rate schedules: step decay, cosine annealing, warm restarts**
-🗓️ August 15, 2026
-📖 [Read entry →](journal/entries/day_049_learning-rate-schedules:-step-decay,-cos.md)
+**Day 50 — Feedforward Neural Networks (ANN) architecture**
+🗓️ August 16, 2026
+📖 [Read entry →](journal/entries/day_050_feedforward-neural-networks-(ann)-archit.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 050 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_050_feedforward-neural-networks-ann-architecture.md) |
 | 049 | [Learning Rate Schedules Step Decay Cosine Anneal](journal/entries/day_049_learning-rate-schedules-step-decay-cosine-anneal.md) |
 | 048 | [Regularization L1 L2 Dropout Batchnorm](journal/entries/day_048_regularization-l1-l2-dropout-batchnorm.md) |
 | 047 | [Weight Initialization Strategies Xavier He Rand](journal/entries/day_047_weight-initialization-strategies-xavier-he-rand.md) |
 | 046 | [Backpropagation Intuition And The Chain Rule](journal/entries/day_046_backpropagation-intuition-and-the-chain-rule.md) |
-| 045 | [Gradient Descent Batch Mini Batch Stochastic](journal/entries/day_045_gradient-descent-batch-mini-batch-stochastic.md) |
 
 [Browse all entries →](journal/entries/)
 
