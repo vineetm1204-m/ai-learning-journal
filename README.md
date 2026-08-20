@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  53 / ∞   Topics covered: 12/41
-[████████░░░░░░░░░░░░░░░░░░░░░░] 29%
-🔥 Current streak: 6 days
+Day  54 / ∞   Topics covered: 13/41
+[█████████░░░░░░░░░░░░░░░░░░░░░] 31%
+🔥 Current streak: 7 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 53 — Optimizers: SGD, Momentum, RMSProp, Adam, AdamW**
-🗓️ August 19, 2026
-📖 [Read entry →](journal/entries/day_053_optimizers:-sgd,-momentum,-rmsprop,-adam.md)
+**Day 54 — Hyperparameter tuning strategies**
+🗓️ August 20, 2026
+📖 [Read entry →](journal/entries/day_054_hyperparameter-tuning-strategies.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 054 | [Hyperparameter Tuning Strategies](journal/entries/day_054_hyperparameter-tuning-strategies.md) |
 | 053 | [Optimizers Sgd Momentum Rmsprop Adam Adamw](journal/entries/day_053_optimizers-sgd-momentum-rmsprop-adam-adamw.md) |
 | 052 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_052_vanishing-and-exploding-gradients-in-deep-anns.md) |
 | 051 | [Universal Approximation Theorem](journal/entries/day_051_universal-approximation-theorem.md) |
 | 050 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_050_feedforward-neural-networks-ann-architecture.md) |
-| 049 | [Learning Rate Schedules Step Decay Cosine Anneal](journal/entries/day_049_learning-rate-schedules-step-decay-cosine-anneal.md) |
 
 [Browse all entries →](journal/entries/)
 
