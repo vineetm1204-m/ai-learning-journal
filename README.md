@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  54 / ∞   Topics covered: 13/41
-[█████████░░░░░░░░░░░░░░░░░░░░░] 31%
-🔥 Current streak: 7 days
+Day  55 / ∞   Topics covered: 14/41
+[██████████░░░░░░░░░░░░░░░░░░░░] 34%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 54 — Hyperparameter tuning strategies**
-🗓️ August 20, 2026
-📖 [Read entry →](journal/entries/day_054_hyperparameter-tuning-strategies.md)
+**Day 55 — Convolutional layers: filters, stride, padding**
+🗓️ August 22, 2026
+📖 [Read entry →](journal/entries/day_055_convolutional-layers:-filters,-stride,-p.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 055 | [Convolutional Layers Filters Stride Padding](journal/entries/day_055_convolutional-layers-filters-stride-padding.md) |
 | 054 | [Hyperparameter Tuning Strategies](journal/entries/day_054_hyperparameter-tuning-strategies.md) |
 | 053 | [Optimizers Sgd Momentum Rmsprop Adam Adamw](journal/entries/day_053_optimizers-sgd-momentum-rmsprop-adam-adamw.md) |
 | 052 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_052_vanishing-and-exploding-gradients-in-deep-anns.md) |
 | 051 | [Universal Approximation Theorem](journal/entries/day_051_universal-approximation-theorem.md) |
-| 050 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_050_feedforward-neural-networks-ann-architecture.md) |
 
 [Browse all entries →](journal/entries/)
 
