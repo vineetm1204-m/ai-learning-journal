@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  58 / ∞   Topics covered: 17/41
-[████████████░░░░░░░░░░░░░░░░░░] 41%
-🔥 Current streak: 4 days
+Day  59 / ∞   Topics covered: 18/41
+[████████████░░░░░░░░░░░░░░░░░░] 43%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 58 — Classic architectures: LeNet, AlexNet, VGG**
-🗓️ August 25, 2026
-📖 [Read entry →](journal/entries/day_058_classic-architectures:-lenet,-alexnet,-v.md)
+**Day 59 — ResNets and skip connections**
+🗓️ August 27, 2026
+📖 [Read entry →](journal/entries/day_059_resnets-and-skip-connections.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 059 | [Resnets And Skip Connections](journal/entries/day_059_resnets-and-skip-connections.md) |
 | 058 | [Classic Architectures Lenet Alexnet Vgg](journal/entries/day_058_classic-architectures-lenet-alexnet-vgg.md) |
 | 057 | [Cnn Receptive Field And Spatial Hierarchy](journal/entries/day_057_cnn-receptive-field-and-spatial-hierarchy.md) |
 | 056 | [Pooling Layers Max Pooling Average Pooling](journal/entries/day_056_pooling-layers-max-pooling-average-pooling.md) |
 | 055 | [Convolutional Layers Filters Stride Padding](journal/entries/day_055_convolutional-layers-filters-stride-padding.md) |
-| 054 | [Hyperparameter Tuning Strategies](journal/entries/day_054_hyperparameter-tuning-strategies.md) |
 
 [Browse all entries →](journal/entries/)
 
