@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  60 / ∞   Topics covered: 19/41
-[█████████████░░░░░░░░░░░░░░░░░] 46%
+Day  61 / ∞   Topics covered: 20/41
+[██████████████░░░░░░░░░░░░░░░░] 48%
 🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 60 — Transfer learning and fine-tuning with CNNs**
-🗓️ August 29, 2026
-📖 [Read entry →](journal/entries/day_060_transfer-learning-and-fine-tuning-with-c.md)
+**Day 61 — Data augmentation for image tasks**
+🗓️ August 31, 2026
+📖 [Read entry →](journal/entries/day_061_data-augmentation-for-image-tasks.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 061 | [Data Augmentation For Image Tasks](journal/entries/day_061_data-augmentation-for-image-tasks.md) |
 | 060 | [Transfer Learning And Fine Tuning With Cnns](journal/entries/day_060_transfer-learning-and-fine-tuning-with-cnns.md) |
 | 059 | [Resnets And Skip Connections](journal/entries/day_059_resnets-and-skip-connections.md) |
 | 058 | [Classic Architectures Lenet Alexnet Vgg](journal/entries/day_058_classic-architectures-lenet-alexnet-vgg.md) |
 | 057 | [Cnn Receptive Field And Spatial Hierarchy](journal/entries/day_057_cnn-receptive-field-and-spatial-hierarchy.md) |
-| 056 | [Pooling Layers Max Pooling Average Pooling](journal/entries/day_056_pooling-layers-max-pooling-average-pooling.md) |
 
 [Browse all entries →](journal/entries/)
 
