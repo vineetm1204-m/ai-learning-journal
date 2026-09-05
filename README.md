@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  63 / ∞   Topics covered: 22/41
-[███████████████░░░░░░░░░░░░░░░] 53%
-🔥 Current streak: 1 days
+Day  64 / ∞   Topics covered: 23/41
+[████████████████░░░░░░░░░░░░░░] 56%
+🔥 Current streak: 2 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 63 — Recurrent Neural Networks (RNN) unrolled through time**
-🗓️ September 04, 2026
-📖 [Read entry →](journal/entries/day_063_recurrent-neural-networks-(rnn)-unrolled.md)
+**Day 64 — BPTT: Backpropagation Through Time**
+🗓️ September 05, 2026
+📖 [Read entry →](journal/entries/day_064_bptt:-backpropagation-through-time.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 064 | [Bptt Backpropagation Through Time](journal/entries/day_064_bptt-backpropagation-through-time.md) |
 | 063 | [Recurrent Neural Networks Rnn Unrolled Through T](journal/entries/day_063_recurrent-neural-networks-rnn-unrolled-through-t.md) |
 | 062 | [Object Detection Yolo R Cnn Family Overview](journal/entries/day_062_object-detection-yolo-r-cnn-family-overview.md) |
 | 061 | [Data Augmentation For Image Tasks](journal/entries/day_061_data-augmentation-for-image-tasks.md) |
 | 060 | [Transfer Learning And Fine Tuning With Cnns](journal/entries/day_060_transfer-learning-and-fine-tuning-with-cnns.md) |
-| 059 | [Resnets And Skip Connections](journal/entries/day_059_resnets-and-skip-connections.md) |
 
 [Browse all entries →](journal/entries/)
 
