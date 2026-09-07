@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  65 / ∞   Topics covered: 24/41
-[█████████████████░░░░░░░░░░░░░] 58%
-🔥 Current streak: 3 days
+Day  66 / ∞   Topics covered: 25/41
+[██████████████████░░░░░░░░░░░░] 60%
+🔥 Current streak: 4 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 65 — Long Short-Term Memory (LSTM) gates explained**
-🗓️ September 06, 2026
-📖 [Read entry →](journal/entries/day_065_long-short-term-memory-(lstm)-gates-expl.md)
+**Day 66 — Gated Recurrent Units (GRU)**
+🗓️ September 07, 2026
+📖 [Read entry →](journal/entries/day_066_gated-recurrent-units-(gru).md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 066 | [Gated Recurrent Units Gru](journal/entries/day_066_gated-recurrent-units-gru.md) |
 | 065 | [Long Short Term Memory Lstm Gates Explained](journal/entries/day_065_long-short-term-memory-lstm-gates-explained.md) |
 | 064 | [Bptt Backpropagation Through Time](journal/entries/day_064_bptt-backpropagation-through-time.md) |
 | 063 | [Recurrent Neural Networks Rnn Unrolled Through T](journal/entries/day_063_recurrent-neural-networks-rnn-unrolled-through-t.md) |
 | 062 | [Object Detection Yolo R Cnn Family Overview](journal/entries/day_062_object-detection-yolo-r-cnn-family-overview.md) |
-| 061 | [Data Augmentation For Image Tasks](journal/entries/day_061_data-augmentation-for-image-tasks.md) |
 
 [Browse all entries →](journal/entries/)
 
