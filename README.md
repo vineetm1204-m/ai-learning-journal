@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  70 / ∞   Topics covered: 29/41
-[█████████████████████░░░░░░░░░] 70%
-🔥 Current streak: 1 days
+Day  71 / ∞   Topics covered: 30/41
+[█████████████████████░░░░░░░░░] 73%
+🔥 Current streak: 2 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 70 — Positional encoding in Transformers**
-🗓️ September 16, 2026
-📖 [Read entry →](journal/entries/day_070_positional-encoding-in-transformers.md)
+**Day 71 — BERT and masked language modeling**
+🗓️ September 17, 2026
+📖 [Read entry →](journal/entries/day_071_bert-and-masked-language-modeling.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 071 | [Bert And Masked Language Modeling](journal/entries/day_071_bert-and-masked-language-modeling.md) |
 | 070 | [Positional Encoding In Transformers](journal/entries/day_070_positional-encoding-in-transformers.md) |
 | 069 | [The Transformer Architecture Attention Is All You](journal/entries/day_069_the-transformer-architecture-attention-is-all-you.md) |
 | 068 | [Attention Mechanisms Self Attention And Cross Att](journal/entries/day_068_attention-mechanisms-self-attention-and-cross-att.md) |
 | 067 | [Sequence To Sequence Models And Encoder Decoder](journal/entries/day_067_sequence-to-sequence-models-and-encoder-decoder.md) |
-| 066 | [Gated Recurrent Units Gru](journal/entries/day_066_gated-recurrent-units-gru.md) |
 
 [Browse all entries →](journal/entries/)
 
