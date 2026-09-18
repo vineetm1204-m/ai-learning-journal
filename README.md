@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  71 / ∞   Topics covered: 30/41
-[█████████████████████░░░░░░░░░] 73%
-🔥 Current streak: 2 days
+Day  72 / ∞   Topics covered: 31/41
+[██████████████████████░░░░░░░░] 75%
+🔥 Current streak: 3 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 71 — BERT and masked language modeling**
-🗓️ September 17, 2026
-📖 [Read entry →](journal/entries/day_071_bert-and-masked-language-modeling.md)
+**Day 72 — GPT and autoregressive language modeling**
+🗓️ September 18, 2026
+📖 [Read entry →](journal/entries/day_072_gpt-and-autoregressive-language-modeling.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 072 | [Gpt And Autoregressive Language Modeling](journal/entries/day_072_gpt-and-autoregressive-language-modeling.md) |
 | 071 | [Bert And Masked Language Modeling](journal/entries/day_071_bert-and-masked-language-modeling.md) |
 | 070 | [Positional Encoding In Transformers](journal/entries/day_070_positional-encoding-in-transformers.md) |
 | 069 | [The Transformer Architecture Attention Is All You](journal/entries/day_069_the-transformer-architecture-attention-is-all-you.md) |
 | 068 | [Attention Mechanisms Self Attention And Cross Att](journal/entries/day_068_attention-mechanisms-self-attention-and-cross-att.md) |
-| 067 | [Sequence To Sequence Models And Encoder Decoder](journal/entries/day_067_sequence-to-sequence-models-and-encoder-decoder.md) |
 
 [Browse all entries →](journal/entries/)
 
