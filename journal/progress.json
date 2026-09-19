@@ -1,5 +1,5 @@
 {
-  "day": 72,
+  "day": 73,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -31,8 +31,9 @@
     "The Transformer architecture (Attention is All You Need)",
     "Positional encoding in Transformers",
     "BERT and masked language modeling",
-    "GPT and autoregressive language modeling"
+    "GPT and autoregressive language modeling",
+    "Generative Adversarial Networks (GANs): generator vs discriminator"
   ],
-  "streak": 3,
-  "last_date": "2026-09-18"
+  "streak": 4,
+  "last_date": "2026-09-19"
 }
