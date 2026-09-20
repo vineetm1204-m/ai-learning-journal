@@ -1,5 +1,5 @@
 {
-  "day": 73,
+  "day": 74,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -32,8 +32,9 @@
     "Positional encoding in Transformers",
     "BERT and masked language modeling",
     "GPT and autoregressive language modeling",
-    "Generative Adversarial Networks (GANs): generator vs discriminator"
+    "Generative Adversarial Networks (GANs): generator vs discriminator",
+    "Variational Autoencoders (VAEs)"
   ],
-  "streak": 4,
-  "last_date": "2026-09-19"
+  "streak": 5,
+  "last_date": "2026-09-20"
 }
