@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  74 / ∞   Topics covered: 33/41
-[████████████████████████░░░░░░] 80%
-🔥 Current streak: 5 days
+Day  75 / ∞   Topics covered: 34/41
+[████████████████████████░░░░░░] 82%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 74 — Variational Autoencoders (VAEs)**
-🗓️ September 20, 2026
-📖 [Read entry →](journal/entries/day_074_variational-autoencoders-(vaes).md)
+**Day 75 — Diffusion models intuition**
+🗓️ September 22, 2026
+📖 [Read entry →](journal/entries/day_075_diffusion-models-intuition.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 075 | [Diffusion Models Intuition](journal/entries/day_075_diffusion-models-intuition.md) |
 | 074 | [Variational Autoencoders Vaes](journal/entries/day_074_variational-autoencoders-vaes.md) |
 | 073 | [Generative Adversarial Networks Gans Generator](journal/entries/day_073_generative-adversarial-networks-gans-generator.md) |
 | 072 | [Gpt And Autoregressive Language Modeling](journal/entries/day_072_gpt-and-autoregressive-language-modeling.md) |
 | 071 | [Bert And Masked Language Modeling](journal/entries/day_071_bert-and-masked-language-modeling.md) |
-| 070 | [Positional Encoding In Transformers](journal/entries/day_070_positional-encoding-in-transformers.md) |
 
 [Browse all entries →](journal/entries/)
 
