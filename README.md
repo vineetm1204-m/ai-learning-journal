@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  78 / ∞   Topics covered: 37/41
-[███████████████████████████░░░] 90%
-🔥 Current streak: 2 days
+Day  79 / ∞   Topics covered: 38/41
+[███████████████████████████░░░] 92%
+🔥 Current streak: 3 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 78 — Deep Q-Networks (DQN)**
-🗓️ September 26, 2026
-📖 [Read entry →](journal/entries/day_078_deep-q-networks-(dqn).md)
+**Day 79 — Multi-task and meta-learning overview**
+🗓️ September 27, 2026
+📖 [Read entry →](journal/entries/day_079_multi-task-and-meta-learning-overview.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 079 | [Multi Task And Meta Learning Overview](journal/entries/day_079_multi-task-and-meta-learning-overview.md) |
 | 078 | [Deep Q Networks Dqn](journal/entries/day_078_deep-q-networks-dqn.md) |
 | 077 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_077_reinforcement-learning-foundations-mdp-rewards.md) |
 | 076 | [Graph Neural Networks Gnns Basics](journal/entries/day_076_graph-neural-networks-gnns-basics.md) |
 | 075 | [Diffusion Models Intuition](journal/entries/day_075_diffusion-models-intuition.md) |
-| 074 | [Variational Autoencoders Vaes](journal/entries/day_074_variational-autoencoders-vaes.md) |
 
 [Browse all entries →](journal/entries/)
 
