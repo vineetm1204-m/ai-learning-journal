@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  86 / ∞   Topics covered: 4/41
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9%
-🔥 Current streak: 1 days
+Day  87 / ∞   Topics covered: 5/41
+[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%
+🔥 Current streak: 2 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 86 — Gradient Descent: batch, mini-batch, stochastic**
-🗓️ October 12, 2026
-📖 [Read entry →](journal/entries/day_086_gradient-descent:-batch,-mini-batch,-sto.md)
+**Day 87 — Backpropagation intuition and the chain rule**
+🗓️ October 13, 2026
+📖 [Read entry →](journal/entries/day_087_backpropagation-intuition-and-the-chain-.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 087 | [Backpropagation Intuition And The Chain Rule](journal/entries/day_087_backpropagation-intuition-and-the-chain-rule.md) |
 | 086 | [Gradient Descent Batch Mini Batch Stochastic](journal/entries/day_086_gradient-descent-batch-mini-batch-stochastic.md) |
 | 085 | [Loss Functions Mse Cross Entropy Huber Loss](journal/entries/day_085_loss-functions-mse-cross-entropy-huber-loss.md) |
 | 084 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_084_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 | 083 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_083_perceptrons-and-the-biological-neuron-analogy.md) |
-| 082 | [Federated Learning And Privacy Preserving Ml](journal/entries/day_082_federated-learning-and-privacy-preserving-ml.md) |
 
 [Browse all entries →](journal/entries/)
 
