@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  87 / ∞   Topics covered: 5/41
-[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%
-🔥 Current streak: 2 days
+Day  88 / ∞   Topics covered: 6/41
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 14%
+🔥 Current streak: 1 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 87 — Backpropagation intuition and the chain rule**
-🗓️ October 13, 2026
-📖 [Read entry →](journal/entries/day_087_backpropagation-intuition-and-the-chain-.md)
+**Day 88 — Weight initialization strategies: Xavier, He, random**
+🗓️ October 15, 2026
+📖 [Read entry →](journal/entries/day_088_weight-initialization-strategies:-xavier.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 088 | [Weight Initialization Strategies Xavier He Rand](journal/entries/day_088_weight-initialization-strategies-xavier-he-rand.md) |
 | 087 | [Backpropagation Intuition And The Chain Rule](journal/entries/day_087_backpropagation-intuition-and-the-chain-rule.md) |
 | 086 | [Gradient Descent Batch Mini Batch Stochastic](journal/entries/day_086_gradient-descent-batch-mini-batch-stochastic.md) |
 | 085 | [Loss Functions Mse Cross Entropy Huber Loss](journal/entries/day_085_loss-functions-mse-cross-entropy-huber-loss.md) |
 | 084 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_084_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
-| 083 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_083_perceptrons-and-the-biological-neuron-analogy.md) |
 
 [Browse all entries →](journal/entries/)
 
