@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  92 / ∞   Topics covered: 10/41
-[███████░░░░░░░░░░░░░░░░░░░░░░░] 24%
-🔥 Current streak: 4 days
+Day  93 / ∞   Topics covered: 11/41
+[███████░░░░░░░░░░░░░░░░░░░░░░░] 26%
+🔥 Current streak: 5 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 92 — Universal approximation theorem**
-🗓️ October 21, 2026
-📖 [Read entry →](journal/entries/day_092_universal-approximation-theorem.md)
+**Day 93 — Vanishing and exploding gradients in deep ANNs**
+🗓️ October 22, 2026
+📖 [Read entry →](journal/entries/day_093_vanishing-and-exploding-gradients-in-dee.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 093 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_093_vanishing-and-exploding-gradients-in-deep-anns.md) |
 | 092 | [Universal Approximation Theorem](journal/entries/day_092_universal-approximation-theorem.md) |
 | 091 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_091_feedforward-neural-networks-ann-architecture.md) |
 | 090 | [Learning Rate Schedules Step Decay Cosine Anneal](journal/entries/day_090_learning-rate-schedules-step-decay-cosine-anneal.md) |
 | 089 | [Regularization L1 L2 Dropout Batchnorm](journal/entries/day_089_regularization-l1-l2-dropout-batchnorm.md) |
-| 088 | [Weight Initialization Strategies Xavier He Rand](journal/entries/day_088_weight-initialization-strategies-xavier-he-rand.md) |
 
 [Browse all entries →](journal/entries/)
 
