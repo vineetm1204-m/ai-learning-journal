@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  93 / ∞   Topics covered: 11/41
-[███████░░░░░░░░░░░░░░░░░░░░░░░] 26%
-🔥 Current streak: 5 days
+Day  94 / ∞   Topics covered: 12/41
+[████████░░░░░░░░░░░░░░░░░░░░░░] 29%
+🔥 Current streak: 6 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 93 — Vanishing and exploding gradients in deep ANNs**
-🗓️ October 22, 2026
-📖 [Read entry →](journal/entries/day_093_vanishing-and-exploding-gradients-in-dee.md)
+**Day 94 — Optimizers: SGD, Momentum, RMSProp, Adam, AdamW**
+🗓️ October 23, 2026
+📖 [Read entry →](journal/entries/day_094_optimizers:-sgd,-momentum,-rmsprop,-adam.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 094 | [Optimizers Sgd Momentum Rmsprop Adam Adamw](journal/entries/day_094_optimizers-sgd-momentum-rmsprop-adam-adamw.md) |
 | 093 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_093_vanishing-and-exploding-gradients-in-deep-anns.md) |
 | 092 | [Universal Approximation Theorem](journal/entries/day_092_universal-approximation-theorem.md) |
 | 091 | [Feedforward Neural Networks Ann Architecture](journal/entries/day_091_feedforward-neural-networks-ann-architecture.md) |
 | 090 | [Learning Rate Schedules Step Decay Cosine Anneal](journal/entries/day_090_learning-rate-schedules-step-decay-cosine-anneal.md) |
-| 089 | [Regularization L1 L2 Dropout Batchnorm](journal/entries/day_089_regularization-l1-l2-dropout-batchnorm.md) |
 
 [Browse all entries →](journal/entries/)
 
