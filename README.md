@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  96 / ∞   Topics covered: 14/41
-[██████████░░░░░░░░░░░░░░░░░░░░] 34%
-🔥 Current streak: 8 days
+Day  97 / ∞   Topics covered: 15/41
+[██████████░░░░░░░░░░░░░░░░░░░░] 36%
+🔥 Current streak: 9 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 96 — Convolutional layers: filters, stride, padding**
-🗓️ October 25, 2026
-📖 [Read entry →](journal/entries/day_096_convolutional-layers:-filters,-stride,-p.md)
+**Day 97 — Pooling layers: max pooling, average pooling**
+🗓️ October 26, 2026
+📖 [Read entry →](journal/entries/day_097_pooling-layers:-max-pooling,-average-poo.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 097 | [Pooling Layers Max Pooling Average Pooling](journal/entries/day_097_pooling-layers-max-pooling-average-pooling.md) |
 | 096 | [Convolutional Layers Filters Stride Padding](journal/entries/day_096_convolutional-layers-filters-stride-padding.md) |
 | 095 | [Hyperparameter Tuning Strategies](journal/entries/day_095_hyperparameter-tuning-strategies.md) |
 | 094 | [Optimizers Sgd Momentum Rmsprop Adam Adamw](journal/entries/day_094_optimizers-sgd-momentum-rmsprop-adam-adamw.md) |
 | 093 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_093_vanishing-and-exploding-gradients-in-deep-anns.md) |
-| 092 | [Universal Approximation Theorem](journal/entries/day_092_universal-approximation-theorem.md) |
 
 [Browse all entries →](journal/entries/)
 
