@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  97 / ∞   Topics covered: 15/41
-[██████████░░░░░░░░░░░░░░░░░░░░] 36%
-🔥 Current streak: 9 days
+Day  98 / ∞   Topics covered: 16/41
+[███████████░░░░░░░░░░░░░░░░░░░] 39%
+🔥 Current streak: 10 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 97 — Pooling layers: max pooling, average pooling**
-🗓️ October 26, 2026
-📖 [Read entry →](journal/entries/day_097_pooling-layers:-max-pooling,-average-poo.md)
+**Day 98 — CNN receptive field and spatial hierarchy**
+🗓️ October 27, 2026
+📖 [Read entry →](journal/entries/day_098_cnn-receptive-field-and-spatial-hierarch.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 098 | [Cnn Receptive Field And Spatial Hierarchy](journal/entries/day_098_cnn-receptive-field-and-spatial-hierarchy.md) |
 | 097 | [Pooling Layers Max Pooling Average Pooling](journal/entries/day_097_pooling-layers-max-pooling-average-pooling.md) |
 | 096 | [Convolutional Layers Filters Stride Padding](journal/entries/day_096_convolutional-layers-filters-stride-padding.md) |
 | 095 | [Hyperparameter Tuning Strategies](journal/entries/day_095_hyperparameter-tuning-strategies.md) |
 | 094 | [Optimizers Sgd Momentum Rmsprop Adam Adamw](journal/entries/day_094_optimizers-sgd-momentum-rmsprop-adam-adamw.md) |
-| 093 | [Vanishing And Exploding Gradients In Deep Anns](journal/entries/day_093_vanishing-and-exploding-gradients-in-deep-anns.md) |
 
 [Browse all entries →](journal/entries/)
 
