@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day  98 / ∞   Topics covered: 16/41
-[███████████░░░░░░░░░░░░░░░░░░░] 39%
-🔥 Current streak: 10 days
+Day  99 / ∞   Topics covered: 17/41
+[████████████░░░░░░░░░░░░░░░░░░] 41%
+🔥 Current streak: 11 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 98 — CNN receptive field and spatial hierarchy**
-🗓️ October 27, 2026
-📖 [Read entry →](journal/entries/day_098_cnn-receptive-field-and-spatial-hierarch.md)
+**Day 99 — Classic architectures: LeNet, AlexNet, VGG**
+🗓️ October 28, 2026
+📖 [Read entry →](journal/entries/day_099_classic-architectures:-lenet,-alexnet,-v.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 099 | [Classic Architectures Lenet Alexnet Vgg](journal/entries/day_099_classic-architectures-lenet-alexnet-vgg.md) |
 | 098 | [Cnn Receptive Field And Spatial Hierarchy](journal/entries/day_098_cnn-receptive-field-and-spatial-hierarchy.md) |
 | 097 | [Pooling Layers Max Pooling Average Pooling](journal/entries/day_097_pooling-layers-max-pooling-average-pooling.md) |
 | 096 | [Convolutional Layers Filters Stride Padding](journal/entries/day_096_convolutional-layers-filters-stride-padding.md) |
 | 095 | [Hyperparameter Tuning Strategies](journal/entries/day_095_hyperparameter-tuning-strategies.md) |
-| 094 | [Optimizers Sgd Momentum Rmsprop Adam Adamw](journal/entries/day_094_optimizers-sgd-momentum-rmsprop-adam-adamw.md) |
 
 [Browse all entries →](journal/entries/)
 
