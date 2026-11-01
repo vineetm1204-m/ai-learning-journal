@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day 102 / ∞   Topics covered: 20/41
-[██████████████░░░░░░░░░░░░░░░░] 48%
-🔥 Current streak: 14 days
+Day 103 / ∞   Topics covered: 21/41
+[███████████████░░░░░░░░░░░░░░░] 51%
+🔥 Current streak: 15 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 102 — Data augmentation for image tasks**
-🗓️ October 31, 2026
-📖 [Read entry →](journal/entries/day_102_data-augmentation-for-image-tasks.md)
+**Day 103 — Object detection: YOLO, R-CNN family overview**
+🗓️ November 01, 2026
+📖 [Read entry →](journal/entries/day_103_object-detection:-yolo,-r-cnn-family-ove.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 103 | [Object Detection Yolo R Cnn Family Overview](journal/entries/day_103_object-detection-yolo-r-cnn-family-overview.md) |
 | 102 | [Data Augmentation For Image Tasks](journal/entries/day_102_data-augmentation-for-image-tasks.md) |
 | 101 | [Transfer Learning And Fine Tuning With Cnns](journal/entries/day_101_transfer-learning-and-fine-tuning-with-cnns.md) |
 | 100 | [Resnets And Skip Connections](journal/entries/day_100_resnets-and-skip-connections.md) |
 | 099 | [Classic Architectures Lenet Alexnet Vgg](journal/entries/day_099_classic-architectures-lenet-alexnet-vgg.md) |
-| 098 | [Cnn Receptive Field And Spatial Hierarchy](journal/entries/day_098_cnn-receptive-field-and-spatial-hierarchy.md) |
 
 [Browse all entries →](journal/entries/)
 
