@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day 110 / ∞   Topics covered: 28/41
-[████████████████████░░░░░░░░░░] 68%
-🔥 Current streak: 3 days
+Day 111 / ∞   Topics covered: 29/41
+[█████████████████████░░░░░░░░░] 70%
+🔥 Current streak: 4 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 110 — The Transformer architecture (Attention is All You Need)**
-🗓️ November 09, 2026
-📖 [Read entry →](journal/entries/day_110_the-transformer-architecture-(attention-.md)
+**Day 111 — Positional encoding in Transformers**
+🗓️ November 10, 2026
+📖 [Read entry →](journal/entries/day_111_positional-encoding-in-transformers.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 111 | [Positional Encoding In Transformers](journal/entries/day_111_positional-encoding-in-transformers.md) |
 | 110 | [The Transformer Architecture Attention Is All You](journal/entries/day_110_the-transformer-architecture-attention-is-all-you.md) |
 | 109 | [Attention Mechanisms Self Attention And Cross Att](journal/entries/day_109_attention-mechanisms-self-attention-and-cross-att.md) |
 | 108 | [Sequence To Sequence Models And Encoder Decoder](journal/entries/day_108_sequence-to-sequence-models-and-encoder-decoder.md) |
 | 107 | [Gated Recurrent Units Gru](journal/entries/day_107_gated-recurrent-units-gru.md) |
-| 106 | [Long Short Term Memory Lstm Gates Explained](journal/entries/day_106_long-short-term-memory-lstm-gates-explained.md) |
 
 [Browse all entries →](journal/entries/)
 
