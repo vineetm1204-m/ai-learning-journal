@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day 114 / ∞   Topics covered: 32/41
-[███████████████████████░░░░░░░] 78%
-🔥 Current streak: 3 days
+Day 115 / ∞   Topics covered: 33/41
+[████████████████████████░░░░░░] 80%
+🔥 Current streak: 4 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 114 — Generative Adversarial Networks (GANs): generator vs discriminator**
-🗓️ November 14, 2026
-📖 [Read entry →](journal/entries/day_114_generative-adversarial-networks-(gans):-.md)
+**Day 115 — Variational Autoencoders (VAEs)**
+🗓️ November 15, 2026
+📖 [Read entry →](journal/entries/day_115_variational-autoencoders-(vaes).md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 115 | [Variational Autoencoders Vaes](journal/entries/day_115_variational-autoencoders-vaes.md) |
 | 114 | [Generative Adversarial Networks Gans Generator](journal/entries/day_114_generative-adversarial-networks-gans-generator.md) |
 | 113 | [Gpt And Autoregressive Language Modeling](journal/entries/day_113_gpt-and-autoregressive-language-modeling.md) |
 | 112 | [Bert And Masked Language Modeling](journal/entries/day_112_bert-and-masked-language-modeling.md) |
 | 111 | [Positional Encoding In Transformers](journal/entries/day_111_positional-encoding-in-transformers.md) |
-| 110 | [The Transformer Architecture Attention Is All You](journal/entries/day_110_the-transformer-architecture-attention-is-all-you.md) |
 
 [Browse all entries →](journal/entries/)
 
