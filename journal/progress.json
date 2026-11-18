@@ -1,5 +1,5 @@
 {
-  "day": 117,
+  "day": 118,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -35,8 +35,9 @@
     "Generative Adversarial Networks (GANs): generator vs discriminator",
     "Variational Autoencoders (VAEs)",
     "Diffusion models intuition",
-    "Graph Neural Networks (GNNs) basics"
+    "Graph Neural Networks (GNNs) basics",
+    "Reinforcement Learning foundations: MDP, rewards, policy"
   ],
-  "streak": 6,
-  "last_date": "2026-11-17"
+  "streak": 7,
+  "last_date": "2026-11-18"
 }

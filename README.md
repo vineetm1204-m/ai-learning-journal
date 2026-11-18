@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day 117 / ∞   Topics covered: 35/41
-[█████████████████████████░░░░░] 85%
-🔥 Current streak: 6 days
+Day 118 / ∞   Topics covered: 36/41
+[██████████████████████████░░░░] 87%
+🔥 Current streak: 7 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 117 — Graph Neural Networks (GNNs) basics**
-🗓️ November 17, 2026
-📖 [Read entry →](journal/entries/day_117_graph-neural-networks-(gnns)-basics.md)
+**Day 118 — Reinforcement Learning foundations: MDP, rewards, policy**
+🗓️ November 18, 2026
+📖 [Read entry →](journal/entries/day_118_reinforcement-learning-foundations:-mdp,.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 118 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_118_reinforcement-learning-foundations-mdp-rewards.md) |
 | 117 | [Graph Neural Networks Gnns Basics](journal/entries/day_117_graph-neural-networks-gnns-basics.md) |
 | 116 | [Diffusion Models Intuition](journal/entries/day_116_diffusion-models-intuition.md) |
 | 115 | [Variational Autoencoders Vaes](journal/entries/day_115_variational-autoencoders-vaes.md) |
 | 114 | [Generative Adversarial Networks Gans Generator](journal/entries/day_114_generative-adversarial-networks-gans-generator.md) |
-| 113 | [Gpt And Autoregressive Language Modeling](journal/entries/day_113_gpt-and-autoregressive-language-modeling.md) |
 
 [Browse all entries →](journal/entries/)
 
