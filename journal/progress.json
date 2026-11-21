@@ -1,5 +1,5 @@
 {
-  "day": 120,
+  "day": 121,
   "completed_topics": [
     "Perceptrons and the biological neuron analogy",
     "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU",
@@ -38,8 +38,9 @@
     "Graph Neural Networks (GNNs) basics",
     "Reinforcement Learning foundations: MDP, rewards, policy",
     "Deep Q-Networks (DQN)",
-    "Multi-task and meta-learning overview"
+    "Multi-task and meta-learning overview",
+    "Neural Architecture Search (NAS)"
   ],
-  "streak": 9,
-  "last_date": "2026-11-20"
+  "streak": 10,
+  "last_date": "2026-11-21"
 }
