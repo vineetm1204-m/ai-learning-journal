@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day 121 / ∞   Topics covered: 39/41
-[████████████████████████████░░] 95%
-🔥 Current streak: 10 days
+Day 122 / ∞   Topics covered: 40/41
+[█████████████████████████████░] 97%
+🔥 Current streak: 11 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 121 — Neural Architecture Search (NAS)**
-🗓️ November 21, 2026
-📖 [Read entry →](journal/entries/day_121_neural-architecture-search-(nas).md)
+**Day 122 — Quantization and model pruning for deployment**
+🗓️ November 22, 2026
+📖 [Read entry →](journal/entries/day_122_quantization-and-model-pruning-for-deplo.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 122 | [Quantization And Model Pruning For Deployment](journal/entries/day_122_quantization-and-model-pruning-for-deployment.md) |
 | 121 | [Neural Architecture Search Nas](journal/entries/day_121_neural-architecture-search-nas.md) |
 | 120 | [Multi Task And Meta Learning Overview](journal/entries/day_120_multi-task-and-meta-learning-overview.md) |
 | 119 | [Deep Q Networks Dqn](journal/entries/day_119_deep-q-networks-dqn.md) |
 | 118 | [Reinforcement Learning Foundations Mdp Rewards](journal/entries/day_118_reinforcement-learning-foundations-mdp-rewards.md) |
-| 117 | [Graph Neural Networks Gnns Basics](journal/entries/day_117_graph-neural-networks-gnns-basics.md) |
 
 [Browse all entries →](journal/entries/)
 
