@@ -1,8 +1,9 @@
 {
-  "day": 124,
+  "day": 125,
   "completed_topics": [
-    "Perceptrons and the biological neuron analogy"
+    "Perceptrons and the biological neuron analogy",
+    "Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU"
   ],
-  "streak": 13,
-  "last_date": "2026-11-24"
+  "streak": 14,
+  "last_date": "2026-11-25"
 }
