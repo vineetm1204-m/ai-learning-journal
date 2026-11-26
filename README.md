@@ -8,28 +8,28 @@
 ## 📊 Progress
 
 ```
-Day 125 / ∞   Topics covered: 2/41
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4%
-🔥 Current streak: 14 days
+Day 126 / ∞   Topics covered: 3/41
+[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7%
+🔥 Current streak: 15 days
 ```
 
 
 ## 📅 Latest Entry
 
-**Day 125 — Activation functions: sigmoid, tanh, ReLU, Leaky ReLU, GELU**
-🗓️ November 25, 2026
-📖 [Read entry →](journal/entries/day_125_activation-functions:-sigmoid,-tanh,-rel.md)
+**Day 126 — Loss functions: MSE, Cross-Entropy, Huber loss**
+🗓️ November 26, 2026
+📖 [Read entry →](journal/entries/day_126_loss-functions:-mse,-cross-entropy,-hube.md)
 
 
 ## 📚 Recent Entries
 
 | Day | Topic |
 |-----|-------|
+| 126 | [Loss Functions Mse Cross Entropy Huber Loss](journal/entries/day_126_loss-functions-mse-cross-entropy-huber-loss.md) |
 | 125 | [Activation Functions Sigmoid Tanh Relu Leaky R](journal/entries/day_125_activation-functions-sigmoid-tanh-relu-leaky-r.md) |
 | 124 | [Perceptrons And The Biological Neuron Analogy](journal/entries/day_124_perceptrons-and-the-biological-neuron-analogy.md) |
 | 123 | [Federated Learning And Privacy Preserving Ml](journal/entries/day_123_federated-learning-and-privacy-preserving-ml.md) |
 | 122 | [Quantization And Model Pruning For Deployment](journal/entries/day_122_quantization-and-model-pruning-for-deployment.md) |
-| 121 | [Neural Architecture Search Nas](journal/entries/day_121_neural-architecture-search-nas.md) |
 
 [Browse all entries →](journal/entries/)
 
